@@ -1,0 +1,19 @@
+{
+  "name": "employees",
+  "version": "1.0.0",
+  "description": "Vue Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "*",
+    "express-validator": "^5.2.0",
+    "mongojs": "^2.6.0"
+  },
+  "author": "Mohammed Kamil",
+  "license": "ISC"
+}
